@@ -1,4 +1,4 @@
 
 #!/usr/bin/env bash
 #logs in with holberton private key
-ssh -i ~/.ssh/holberton ubuntu@35.231.71.122
+ssh -i ~/.ssh/school ubuntu@35.231.71.122
